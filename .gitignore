@@ -1,0 +1,5 @@
+
+.vscode/settings.json
+/salud/settings.py
+db.sqlite3
+*.pyc 
